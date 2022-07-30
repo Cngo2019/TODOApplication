@@ -1,7 +1,8 @@
+import {Form} from "./components/TaskForm"
 function App() {
   return (
     <div>
-    Hello
+      <Form />
     </div>
   );
 }
